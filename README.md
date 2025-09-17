@@ -2,7 +2,7 @@
 
 This repository contains the final report of my **VR Relativity Project**, developed during my undergraduate studies.
 
-## 📖 Project Overview
+## Project Overview
 The project aims to **visualize special relativity effects in virtual reality (VR)** using **Unity** and **Blender**, with support for **Oculus Quest**.  
 Key simulated phenomena include:
 - **Length contraction**  
@@ -14,7 +14,7 @@ This project also explores applications in **science education** and **gamified 
 
 ## 📄 Report
 You can read the full project report here:  
-👉 [VR Relativity Project Report (PDF)]([./933455_Leyan_Ouyang_VR_relativity_report.pdf](https://github.com/leyanouyang92-hue/VR-Relativity-Project/blob/main/933455_Leyan_Ouyang_VR_relativity_report_----Leyan_Ouyang_8668524_2076742525.pdf))
+[VR Relativity Project Report (PDF)](./933455_Leyan_Ouyang_VR_relativity_report---.pdf)
 
 ## 🔧 Technologies
 - Unity (C#)
@@ -22,6 +22,6 @@ You can read the full project report here:
 - Oculus Quest SDK
 - Python (for some physics calculations)
 
-## 🙋 Author
+## Author
 - **Leyan Ouyang**  
 Undergraduate Student, King's College London  
