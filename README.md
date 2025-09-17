@@ -14,7 +14,7 @@ This project also explores applications in **science education** and **gamified 
 
 ## 📄 Report
 You can read the full project report here:  
-[VR Relativity Project Report (PDF)](./933455_Leyan_Ouyang_VR_relativity_report_----Leyan_Ouyang_8668524_2076742525%20(1).pdf)
+[VR Relativity Project Report (PDF)](./933455_Leyan_Ouyang_VR_relativity_report_----Leyan_Ouyang_8668524_2076742525.pdf)
 
 ## 🔧 Technologies
 - Unity (C#)
